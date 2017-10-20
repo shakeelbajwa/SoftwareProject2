@@ -1,1 +1,1 @@
-# Dit is de branche van Katrien Van Melle
+# Dit is de Master. Hierop staat de definitieve versie voor Software Project 2
